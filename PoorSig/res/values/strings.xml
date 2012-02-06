@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, PoorSigActivity!</string>
+    <string name="app_name">Poor Signal History</string>
+    <string name="service_name">Poor Signal Detector</string>
+    <string name="list_heading">These are the time periods when your signal was very weak.</string>
+    <string name="to">TO</string>
+</resources>
